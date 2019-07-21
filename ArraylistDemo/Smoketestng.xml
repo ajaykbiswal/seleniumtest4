@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SomkeSuite">
+  <test name="Sprit1">
+    <classes>
+      <class name="TestNGTests.Testcase5"/>
+      <class name="TestNGTests.Testcase4"/>
+      <class name="TestNGTests.Testcase1"/>
+      <class name="TestNGTests.Testcase3"/>
+      <class name="TestNGTests.Testcase2"/>
+    </classes>
+  </test> <!-- Sprit1 -->
+</suite> <!-- SomkeSuite -->
